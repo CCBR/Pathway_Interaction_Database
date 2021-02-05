@@ -10,12 +10,15 @@ or and PMID at https://pubmed.ncbi.nlm.nih.gov/18832364/
 It was created by Carl Schaefer's gang at the Center for Biomedical Informatics and Information Technology (CBIIT) of the National Cancer Institute.
 
 Created with: 
+
 split -b 24M pid.tar.bz2 chunk
 
 To recreate the bzip2 tarball download the chunk* files and then run this command:
+
 cat chunk* > pid.tar.bz2
 
 Then untar the pid.tar.bz2 file with this command:
+
 tar xvf pid.tar.bz2
 
 The full listing of the files is in the manifest file.
