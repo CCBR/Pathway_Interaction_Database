@@ -7,7 +7,7 @@ or and PMID at https://pubmed.ncbi.nlm.nih.gov/18832364/
 
 "The Pathway Interaction Database ( PID .... ) is a freely available collection of curated and peer-reviewed pathways composed of human molecular signaling and regulatory events and key cellular processes. Created in a collaboration between the US National Cancer Institute and Nature Publishing Group, the database serves as a research tool for the cancer research community and others interested in cellular pathways, such as neuroscientists, developmental biologists and immunologists."
 
-It was created by Carl Schaefer and gang at CCBR group and the National Cancer Institute.
+It was created by Carl Schaefer's gang at the Center for Biomedical Informatics and Information Technology (CBIIT) of the National Cancer Institute.
 
 Created with: 
 split -b 24M pid.tar.bz2 chunk
