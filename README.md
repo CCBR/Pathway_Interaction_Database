@@ -1,3 +1,8 @@
+> [!WARNING]
+> This repository has been archived and is no longer maintained.  
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.  
+> It should not be used in production systems.  
+
 # Pathway_Interaction_Database
 
 This a screen scrape backup of the Pathway Interaction Database from 25 September 2010.  It includes html files and images.
